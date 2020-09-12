@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints 
+
+# Raw datasets.
+cord-19*
+2020-08-26
+kaggle-lit-review*
+document_parses
+
+# Pretrained models
+t5-large.zip
+model.ckpt*
+.~  # Weird path from BERTScore
+
+# Intermediate results.
+covid.csv
+cord_questions/*.csv
