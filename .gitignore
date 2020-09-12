@@ -8,6 +8,7 @@ kaggle-lit-review*
 document_parses
 
 # Pretrained models
+t5-base.zip
 t5-large.zip
 model.ckpt*
 .~  # Weird path from BERTScore
