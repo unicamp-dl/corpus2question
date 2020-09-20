@@ -10,8 +10,6 @@ This repository presents `corpus2question`, a method for summarizing and explori
 
 `corpus2question` relies on the question generation network used in [doc2query](https://github.com/castorini/docTTTTTquery) and frequency aggregations. Check [our tutorial](./tutorial.ipynb) for a small example.
 
-![Illustration of the corpus2question method, using question generation followed by aggregations.](./images/qg_pipeline.png)
-
 
 ## Results over the CORD-19 dataset
 
