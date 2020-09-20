@@ -1,7 +1,7 @@
 corpus2question
 ===============
 
-This repository presents `corpus2question`, a method for summarizing and exploring datasets based on latent questions on documents. It also contains the reference implementation for the paper [Can questions summarize a corpus? Using question generation for characterizing COVID-19 research.](http://#).
+This repository presents `corpus2question`, a method for summarizing and exploring datasets based on latent questions on documents. It also contains the reference implementation for the paper [Can questions summarize a corpus? Using question generation for characterizing COVID-19 research](http://#).
 
 
 ## The method
