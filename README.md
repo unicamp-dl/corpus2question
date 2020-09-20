@@ -13,4 +13,4 @@ This repository presents `corpus2question`, a method for summarizing and explori
 
 ## Results over the CORD-19 dataset
 
-The generated questions over the CORD-19 dataset are available at [this link](https://drive.google.com/file/d/12LNJAC2KaDKVcwuPHbVjyd3NVHU1KnLV/view?usp=sharing) in the CSV format. and you can find the top 10k at [this link](./results/top_10k.csv). The reference implementation for the paper is available at [this notebook](./paper reference.ipynb).
+The generated questions over the CORD-19 dataset are available at [this link](https://drive.google.com/file/d/12LNJAC2KaDKVcwuPHbVjyd3NVHU1KnLV/view?usp=sharing) in the CSV format. and you can find the top 10k at [this link](./results/top_10k.csv). The reference implementation for the paper is available at [this notebook](./paper%20reference.ipynb).
