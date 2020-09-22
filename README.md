@@ -17,7 +17,7 @@ All raw generated questions over the CORD-19 dataset are available at [this link
 
 ## Citing this work
 
-If you use `corpus2question` on your academic work, please cite us with:
+If you use `corpus2question` on your academic work, or use the generated questions over the CORD-19 dataset, please cite us with:
 
 ```
 @misc{surita2020questions,
